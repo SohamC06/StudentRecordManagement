@@ -1,0 +1,5 @@
+1. Exception Handling missing in Roll number input form. If non integer entered into Roll Number, 
+   data is not entered into database , so during login it shows invalid email.
+   (Error is displayed in terminal)
+
+2. If integer entered into name,integer is accepted as name(Error handling missing but works fine)
