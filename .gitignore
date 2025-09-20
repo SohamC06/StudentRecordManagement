@@ -11,8 +11,6 @@ yarn.lock
 .env.production
 .env.test
 
-!.env.example
-
 .DS_Store
 Thumbs.db
 .vscode/
